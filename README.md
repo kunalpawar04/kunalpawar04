@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm a Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there!%20%20I%27m%20a%20Full-Stack%20Developer&fontSize=40&animation=fadeIn" width="100%"/>
 
  <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo1Nm42N3F1YmhpM2UxeGVib2FuZGEwZWpldnA1YTk3M2g1ajVrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif?" alt="Developer Animation" width="300" align="left" style="margin-right: 20px;" />
