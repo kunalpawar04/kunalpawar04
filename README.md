@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there!%20%20I%27m%20a%20Full-Stack%20Developer&fontSize=40&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=FFFFFF&center=true&width=600&lines=Hey+there!+I%27m+Kunal+Pawar;Software+Engineer+%40+LTIMindtree;Competitive+Programmer+%7C+LeetCode+Max+Rating+1820;Always+learning%2C+always+building+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=58A6FF&center=true&width=600&lines=Hello!+I%27m+Kunal+Pawar;Software+Engineer+%40+LTIMindtree;Competitive+Programmer+%7C+LeetCode+Max+Rating+1820;Always+learning%2C+always+building+🚀" alt="Typing SVG"/>
 </div>
 
 ## 📝 About Me
