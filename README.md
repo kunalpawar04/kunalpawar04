@@ -2,22 +2,20 @@
 
 ## 📝 About Me
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo1Nm42N3F1YmhpM2UxeGVib2FuZGEwZWpldnA1YTk3M2g1ajVrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Developer Animation" width="260" align="right"/>
-
 <p>
-  My journey in IT began with a deep fascination for problem-solving through DSA, which led me to competitive programming on LeetCode and CodeChef. Over time, this passion evolved into full-stack development, turning ideas into fully functional, production-ready applications.
+  My journey in IT started with a strong fascination for DSA and competitive programming on LeetCode and CodeChef, which gradually evolved into full-stack development.
 </p>
 
 <p>
-  I currently work in the BFSI domain, building scalable and reliable systems for real-world financial use cases. I engineer solutions across multiple stacks including Java with Spring Boot, MERN, and .NET, backed by a strong foundation in OOP, DSA, Low-Level Design (LLD), and Microservices Architecture. My work spans React.js, Angular, RESTful APIs, and backend systems powered by MySQL, Oracle SQL, MongoDB, Node.js, and ASP.NET, with hands-on exposure to cloud technologies like AWS.
+  I currently work in the BFSI domain, engineering scalable solutions using Java with Spring Boot, MERN, and .NET stacks. My expertise includes Microservices, LLD, OOP, RESTful APIs, React.js, Angular, SQL/NoSQL databases, RabbitMQ, Docker, and AWS, backed by a strong foundation in DSA and System Design.
 </p>
 
 <p>
-  Outside of work, I enjoy watching anime and series, and reading books, mostly fiction and personal development.
+  Outside of work, I enjoy anime, series, and reading fiction and personal development books.
 </p>
 
 <p>
-  I am eager to connect with like-minded professionals, contribute to impactful projects, and continue growing as a developer. If you find my skills aligned with your work or ideas, I’d be glad to connect 🚀
+  Always open to meaningful opportunities and collaborations. Let's connect! 🚀
 </p>
 
 ---
