@@ -90,18 +90,7 @@
 
 ## 👤 Coding Profiles
 
-<a href="https://leetcode.com/kunal_pawar_04/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/pawar_kunal_04/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298031?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile"/>
-</a>
-
-<a href="https://www.codechef.com/users/kunal_pawar_04" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-964639?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
-</a>
-
+<a href="https://leetcode.com/kunal_pawar_04/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="https://www.geeksforgeeks.org/user/pawar_kunal_04/"><img src="https://img.shields.io/badge/GeeksforGeeks-298031?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/kunal_pawar_04"><img src="https://img.shields.io/badge/CodeChef-964639?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 ---
 
 ## 🎯 What I'm Looking For
