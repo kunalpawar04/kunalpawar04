@@ -1,23 +1,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there!%20%20I%27m%20a%20Full-Stack%20Developer&fontSize=40&animation=fadeIn" width="100%"/>
 
- <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo1Nm42N3F1YmhpM2UxeGVib2FuZGEwZWpldnA1YTk3M2g1ajVrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif?" alt="Developer Animation" width="300" align="left" style="margin-right: 20px;" />
-  <h3>About Me</h3>
-  
-  <p>
-    As a curious individual, I've always been driven by the desire to explore, learn, and challenge myself. My journey started with a love for problem-solving through <strong>DSA</strong> on platforms like LeetCode, and it has grown into a strong passion for <strong>full-stack development</strong>.
-  </p>
-  
-  <p>
-    I work across multiple stacks, including <strong>Java with Spring Boot</strong>, <strong>MERN</strong>, and <strong>.NET</strong>, with a solid foundation in <strong>OOP and DSA</strong>. My experience spans building applications with <strong>React.js</strong>, <strong>Angular</strong>, <strong>RESTful APIs</strong>, and backend systems using <strong>MySQL</strong>, <strong>MongoDB</strong>, <strong>Node.js</strong>, and <strong>ASP.NET</strong>.
-  </p>
-  
-  <p>
-    Beyond coding, I enjoy watching anime and series, as well as reading books, mainly fiction and personal development. I am eager to connect with like-minded professionals, contribute to impactful projects, and continue growing as a developer.
-  </p>
-  
-  <br clear="both" />
-</div>
+## 📝 About Me
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo1Nm42N3F1YmhpM2UxeGVib2FuZGEwZWpldnA1YTk3M2g1ajVrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Developer Animation" width="260" align="right"/>
+
+<p>
+  My journey in IT began with a deep fascination for problem-solving through DSA, which led me to competitive programming on LeetCode and CodeChef. Over time, this passion evolved into full-stack development, turning ideas into fully functional, production-ready applications.
+</p>
+
+<p>
+  I currently work in the BFSI domain, building scalable and reliable systems for real-world financial use cases. I engineer solutions across multiple stacks including Java with Spring Boot, MERN, and .NET, backed by a strong foundation in OOP, DSA, Low-Level Design (LLD), and Microservices Architecture. My work spans React.js, Angular, RESTful APIs, and backend systems powered by MySQL, Oracle SQL, MongoDB, Node.js, and ASP.NET, with hands-on exposure to cloud technologies like AWS.
+</p>
+
+<p>
+  Outside of work, I enjoy watching anime and series, and reading books, mostly fiction and personal development.
+</p>
+
+<p>
+  I am eager to connect with like-minded professionals, contribute to impactful projects, and continue growing as a developer. If you find my skills aligned with your work or ideas, I’d be glad to connect 🚀
+</p>
 
 ---
 
@@ -91,12 +92,6 @@
 ## 👤 Coding Profiles
 
 <a href="https://leetcode.com/kunal_pawar_04/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="https://www.geeksforgeeks.org/user/pawar_kunal_04/"><img src="https://img.shields.io/badge/GeeksforGeeks-298031?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/kunal_pawar_04"><img src="https://img.shields.io/badge/CodeChef-964639?style=for-the-badge&logo=codechef&logoColor=white"/></a>
----
-
-## 🎯 What I'm Looking For
-
-I'm passionate about connecting with like-minded professionals and collaborating on impactful projects. If my skills align with your work or ideas, I'd be glad to connect!
-
 ---
 
 ## 📫 Let's Connect
