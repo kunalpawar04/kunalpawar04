@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  I currently work in the BFSI domain, engineering scalable solutions using Java with Spring Boot, MERN, and .NET stacks. My expertise includes Microservices, LLD, OOP, RESTful APIs, React.js, Angular, SQL/NoSQL databases, RabbitMQ, Docker, and AWS, backed by a strong foundation in DSA and System Design.
+  I currently work in the BFSI domain, engineering scalable solutions using Java with Spring Boot, MERN, and .NET stacks. My expertise includes Microservices, LLD, HLD, OOP, RESTful APIs, React.js, Angular, SQL/NoSQL databases, RabbitMQ, Docker, and AWS, backed by a strong foundation in DSA and System Design.
 </p>
 
 <p>
