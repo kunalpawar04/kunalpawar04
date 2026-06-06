@@ -84,6 +84,7 @@
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Low-Level Design](https://img.shields.io/badge/Low--Level_Design-6DB33F?style=for-the-badge&logo=blueprint&logoColor=white)
+![High-Level Design](https://img.shields.io/badge/High--Level_Design-0A66C2?style=for-the-badge&logo=blueprint&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-563D7C?style=for-the-badge&logo=blueprint&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Database Systems](https://img.shields.io/badge/Database_Systems-336791?style=for-the-badge&logo=postgresql&logoColor=white)
